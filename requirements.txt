@@ -1,0 +1,6 @@
+PyQt5>=5.15
+# tuỳ chọn:
+# pyflakes      - kiểm lỗi Python
+# black         - định dạng code
+# pyinstaller   - đóng gói .exe
+# PyQtWebEngine - trình duyệt tích hợp
